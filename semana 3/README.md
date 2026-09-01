@@ -70,7 +70,3 @@ El sistema permite:
 El diseño del sistema se encuentra en el archivo:
 
 `Diagrama_SpeedFast.drawio`
-
-## Autor
-
-Proyecto desarrollado para la actividad de Desarrollo Orientado a Objetos II.
